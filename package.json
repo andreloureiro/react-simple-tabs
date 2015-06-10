@@ -1,0 +1,24 @@
+{
+  "name": "react-tabs",
+  "version": "1.0.0",
+  "description": "Tab React Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Loureiro",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^10.2.3",
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-uglify": "^1.2.0",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
